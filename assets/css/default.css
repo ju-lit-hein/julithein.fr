@@ -1,0 +1,23 @@
+.en-construction {
+    text-align: center;
+}
+
+h1 {
+    color: var(--primary);
+    text-align: center;
+    margin: 3vh;
+}
+
+p {
+    color: var(--primary);
+    text-align: center;
+    margin-bottom: 3vh;
+}
+
+img {
+    width: 80vw;
+    height: auto;
+    margin: 3vh;
+    border-radius: 5vw;
+    transform: rotate(4deg);
+}
