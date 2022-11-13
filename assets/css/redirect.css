@@ -1,0 +1,22 @@
+.container {
+    display: block;
+    text-align: center;
+    width: 100vw;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15vh;
+}
+.title {
+    color: var(--primary);
+}
+
+.help {
+    margin-top: 10vh;
+    color: var(--primary);
+}
+
+.help a {
+    text-decoration: none;
+    color: var(--primary);
+    font-size: 10vw; /* from misplacing this rule to something I found funny*/
+}
